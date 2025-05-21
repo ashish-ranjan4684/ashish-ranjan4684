@@ -7,7 +7,7 @@ I'm a 3rd year student at VIT University, Vellore, passionate about building thi
 ## 🚀 What I'm Working On
 
 - **Video Calling Website**  
-  Currently developing a seamless, real-time video calling platform — stay tuned for updates!
+  Currently developing a seamless, real-time video calling platform — stay tuned for updates! Let's meet you there.
 
 ---
 
