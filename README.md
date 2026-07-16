@@ -39,8 +39,7 @@ I'm a 3rd year student at VIT University, Vellore, passionate about building thi
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ashish-ranjan-b46294231)
--
-[Portfolio](https://www.ashish-ranjan.com)
+-[Portfolio](https://www.ashish-ranjan.com)
 
 ---
 
